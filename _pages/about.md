@@ -12,4 +12,4 @@ My name is Suyu Luohong, currently a second-year graduate student in Mechanical 
 
 I am currently involved in the bistable compliant fish robots project at Professor Hod Lipson's Creative Machines Lab. My primary responsibilities include motion modeling of the fish robots and fluid dynamics simulation.
 
-You can find my CV here: [Suyu Luohong's Curriculum Vitael] (../assets/Curriculum Vitae.pdf).
+You can find my CV here: [Suyu Luohong's Curriculum Vitael](../assets/Curriculum Vitae.pdf).
