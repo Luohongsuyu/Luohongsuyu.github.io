@@ -1,6 +1,6 @@
 ---
 title: "bistable compliant fish robots"
-excerpt: "bistable compliant fish<br/><img src='/images/500x300.png'>"
+excerpt: "bistable compliant fish<br/><img src='/images/bistable.png'>"
 collection: portfolio
 ---
 
