@@ -4,25 +4,19 @@ excerpt: " Project poster <br/><img src='/images/Poster.png'>"
 collection: portfolio
 ---
 
-Research Overview
-In our research, we leveraged data science techniques to uncover trends in cyclist accidents within New York City's urban landscape. We analyzed geographic, temporal, and weather-related data from 2012 to 2023 to propose a machine learning model aimed at predicting future bicycle accident hotspots, thereby alerting the public to areas where accidents are likely to occur more frequently.
+### Research Overview
 
-Machine Learning Component (My Responsibility)
-K-Means Clustering Model
+In our research, we used data science techniques to uncover trends in cyclist accidents within New York City from 2012 to 2023. We aimed to predict future bicycle accident hotspots to alert the public. This project is supported by the Northeast Big Data Innovation Hub, and we have received certification for it.
 
-Initially, we utilized the K-Means unsupervised learning method to identify prevalent accident locations from 2012 to 2023. To enhance the precision of pinpointing these high-incidence areas, we conducted multiple iterations and ultimately selected a K-Means model comprising 20 clusters. The results indicated that the prevalent accident locations in New York City are predominantly situated in Manhattan, Queens, and Brooklyn.
+### Machine Learning Component (My Responsibility)
 
-Deep Learning Model
+- **K-Means Clustering Model**: Identified prevalent accident locations, with the final model consisting of 20 clusters, pinpointing high-accident areas in Manhattan, Queens, and Brooklyn.
 
-Building upon the K-Means analysis, I focused on forecasting future accident occurrences by examining trends in accident rates over time at these 20 identified hotspots. Given the high-dimensional and nonlinear nature of the dataset, we employed a deep learning approach, specifically a Multilayer Perceptron (MLP). The MLP model's input consisted of yearly data points, with the output being the corresponding accident rates, thus predicting future data. The learning curve of the model demonstrated that both train loss and test loss decreased over learning epochs, indicating effective training. The model's accuracy, defined by R-squared and Cosine Similarity, showed strong correlation values (R-squared = 0.95 and Cosine Similarity = 0.99), confirming the model's high predictive accuracy.
+- **Deep Learning Model**: Used a Multilayer Perceptron (MLP) to forecast future accident occurrences. The model demonstrated high accuracy (R-squared = 0.95, Cosine Similarity = 0.99), predicting 2024 accident hotspots primarily in Lower and Midtown Manhattan, and the border between Brooklyn and Queens.
 
-The resulting heatmap visualization of predicted accident rates for 2024 indicated that this year's accidents will primarily concentrate in Lower and Midtown Manhattan, as well as at the border between Brooklyn and Queens. Utilizing this model, we can enhance early warning systems and alert cyclists in these areas to exercise increased caution regarding traffic safety.
+### Key Findings
 
-Key Findings
-Correlation Analysis: We found a moderate positive correlation (approximately 0.61) between Citi Bike ridership and cyclist injuries in collisions, suggesting that increased bike usage is associated with a higher number of injuries. Seasonal trends further indicated a high correlation (approximately 0.99) between bike ridership and collision patterns, highlighting the impact of weather and urban life cycles on accident rates.
+1. **Correlation Analysis**: Moderate positive correlation (approximately 0.61) between Citi Bike ridership and cyclist injuries.
+2. **Impact of Bike Lanes**: Significant number of accidents occur outside designated bike lanes, particularly in Brooklyn.
+3. **Weather Conditions**: Extreme temperatures significantly impact cycling activity and accident rates.
 
-Impact of Bike Lanes: Our analysis revealed that a significant number of bicycle accidents occur outside designated bike lanes, particularly in Brooklyn. This finding underscores the need for expanded bike lane coverage and improved safety measures in high-risk zones.
-
-Weather Conditions: We observed that extreme temperatures (both high and low) significantly impact cycling activity and accident rates. Accidents were more frequent during summer months due to increased cycling activity and potentially heat-related stress, while winter conditions, despite fewer cyclists, still posed severe risks due to icy roads.
-
-By integrating these insights, we propose strategic recommendations for enhancing urban cycling safety through infrastructure improvements and targeted safety measures.
