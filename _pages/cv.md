@@ -26,4 +26,7 @@ Skills
   * Deep learning
 * OpenCV
 
+PDF
+======
+You can find my pdf form CV here: [Suyu Luohong's Curriculum Vitael](../assets/Curriculum Vitae.pdf).
 
