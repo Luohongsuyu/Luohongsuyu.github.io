@@ -1,6 +1,6 @@
 ---
 title: "bistable compliant fish robots"
-excerpt: "bistable compliant fish<br/><img src='/images/bistable.png'>"
+excerpt: "bistable compliant fish<br/><img src='/images/HCM_Comparison.gif'>"
 collection: portfolio
 ---
 
@@ -13,6 +13,3 @@ The study also compared the performance of the HCM-based robotic fish to traditi
 
 ![Image](https://github.com/Luohongsuyu/Luohongsuyu.github.io/blob/master/images/HCM_25cm.gif)<br>
 Figure 1.The HCM fish robot swims at 25 cm/s<br>
-
-![Image](https://github.com/Luohongsuyu/Luohongsuyu.github.io/blob/master/images/HCM_Comparison.gif)<br>
-Figure 2.Sim-to-real Comparison of the HCM<br>
