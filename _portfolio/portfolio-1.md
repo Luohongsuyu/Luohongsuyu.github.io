@@ -11,6 +11,7 @@ The primary work involved in this research includes the development of a mathema
 The study also compared the performance of the HCM-based robotic fish to traditional sine wave robots. The simulations and empirical results demonstrated that the HCM mechanism significantly increases the swimming speed, achieving nearly twice the speed of conventional designs under the same conditions. This research confirms the potential of the HCM in improving the locomotion of soft aquatic robots and provides a solid foundation for further exploration and optimization.
 
 Project-related publications:
+
 [1] Z. Xiong, J. H. Lee, and H. Lipson, “Accelerating Aquatic Soft Robots with Elastic Instability Effects”.
 [2] Z. Xiong, L. Chen, W. Hao, P. Yang, and X. Chen, In-plane prestressing: Inspiration from a hair clip. 2022. doi: 10.48550/arXiv.2206.14867.
 
