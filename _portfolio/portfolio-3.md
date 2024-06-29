@@ -9,7 +9,7 @@ In the evolutionary robotics project, we aim to use evolutionary algorithms to d
 
 The following images show the results and some evaluation of the algorithm.
 
-![Image](image/Simulator_ver.jpg)<br>
+![Image](https://github.com/Luohongsuyu/Luohongsuyu.github.io/blob/master/images/Simulator_ver.jpg)<br>
 Figure 1. Verification of the simulator through energy conservation<br>
 
 
