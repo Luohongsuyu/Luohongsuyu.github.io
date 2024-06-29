@@ -4,6 +4,7 @@ excerpt: "bistable compliant fish<br/><img src='/images/bistable.png'>"
 collection: portfolio
 ---
 
+### Research Overview
 This research introduces an advanced carbon fiber-reinforced plastic (CFRP) robotic fish that utilizes a novel in-plane prestressed bistable mechanism, called the Hair Clip Mechanism (HCM), to enhance the performance of soft robots in aquatic environments. The HCM leverages the elastic properties of materials to store and release energy efficiently, inspired by natural phenomena such as pollen and seed dispersal mechanisms. This design aims to overcome the typical limitations of soft robots, such as slow speed and low force exertion.
 
 The primary work involved in this research includes the development of a mathematical model to describe the undulatory movement of the robotic fish. Data were collected from video recordings of the fish swimming, and these data were converted into a point set to fit an equation that accurately represents the HCM motion. The resulting model was then used to simulate the fish's movement in water using COMSOL Multiphysics, which allowed for detailed analysis of the forces acting on the robotic fish and its energy efficiency.
