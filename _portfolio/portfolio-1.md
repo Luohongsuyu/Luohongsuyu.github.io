@@ -11,5 +11,5 @@ The primary work involved in this research includes the development of a mathema
 The study also compared the performance of the HCM-based robotic fish to traditional sine wave robots. The simulations and empirical results demonstrated that the HCM mechanism significantly increases the swimming speed, achieving nearly twice the speed of conventional designs under the same conditions. This research confirms the potential of the HCM in improving the locomotion of soft aquatic robots and provides a solid foundation for further exploration and optimization.
 
 
-![Image](https://github.com/Luohongsuyu/Evolutionary-Alogrithm-Project/blob/main/Image/GIF1.gif)<br>
+![Image](https://github.com/Luohongsuyu/Evolutionary-Alogrithm-Project/blob/main/Image/HCM_25cm.gif)<br>
 Figure 1.The HCM fish robot swims at 25 cm/s<br>
