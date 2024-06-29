@@ -9,3 +9,7 @@ This research introduces an advanced carbon fiber-reinforced plastic (CFRP) robo
 The primary work involved in this research includes the development of a mathematical model to describe the undulatory movement of the robotic fish. Data were collected from video recordings of the fish swimming, and these data were converted into a point set to fit an equation that accurately represents the HCM motion. The resulting model was then used to simulate the fish's movement in water using COMSOL Multiphysics, which allowed for detailed analysis of the forces acting on the robotic fish and its energy efficiency.
 
 The study also compared the performance of the HCM-based robotic fish to traditional sine wave robots. The simulations and empirical results demonstrated that the HCM mechanism significantly increases the swimming speed, achieving nearly twice the speed of conventional designs under the same conditions. This research confirms the potential of the HCM in improving the locomotion of soft aquatic robots and provides a solid foundation for further exploration and optimization.
+
+
+![Image](https://github.com/Luohongsuyu/Evolutionary-Alogrithm-Project/blob/main/Image/GIF1.gif)<br>
+Figure 1. Best result from evolution<br>
