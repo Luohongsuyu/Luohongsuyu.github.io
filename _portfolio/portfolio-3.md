@@ -19,7 +19,7 @@ Figure 2. Best result from evolution<br>
 ![Image](https://github.com/Luohongsuyu/Evolutionary-Alogrithm-Project/blob/main/Image/GIF2.gif)<br>
 Figure 3. comparison between two different result<br>
 
-![Image](image/Learning_curve.png)<br>
+![Image](https://github.com/Luohongsuyu/Luohongsuyu.github.io/blob/master/images/Learning_curve.png)<br>
 Figure 4. Learning Curve of algorithm<br>
 
 ![Image](Image/dot_plot.png)<br>
