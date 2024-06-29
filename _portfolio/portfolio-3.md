@@ -1,6 +1,6 @@
 ---
 title: "Soft Robots Evolving Project"
-excerpt: "Evolutionary robot<br/><img src='/images/EA_Robo.png'>"
+excerpt: "Evolutionary robot<br/><img src='/images/Simulator_ver.jpg'>"
 collection: portfolio
 ---
 
