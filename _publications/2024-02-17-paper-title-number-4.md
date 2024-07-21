@@ -1,5 +1,5 @@
 ---
-title: "Accelerating Aquatic Soft Robots with Elastic Instability Effects (preprint)"
+title: "Accelerating Aquatic Soft Robots with Elastic Instability Effects"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fish robot.'
