@@ -2,7 +2,7 @@
 title: "Accelerating Aquatic Soft Robots with Elastic Instability Effects"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This is my first English paper (even as a preprint), and it is about a robotic fish driven by a novel bistable mechanism.'
+excerpt: 'This is my first English paper (even if it remains a preprint), and it is about a robotic fish driven by a novel bistable mechanism.'
 date: 2024-07-12
 venue: 'Arxiv'
 paperurl: 'http://Luohongsuyu.github.io/files/paper1.pdf'
