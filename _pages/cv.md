@@ -18,7 +18,10 @@ Education
 Skills
 ======
 * MATLAB
-* computational mechanics
+* Optimization algorithm
+  * Evolutionary computation
+  * Simulated annealing
+* Computational mechanics
   * Comsol
   * Ansys
 * Machine Learning
