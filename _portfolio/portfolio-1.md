@@ -16,4 +16,7 @@ The study also compared the performance of the HCM-based robotic fish to traditi
 
 [2] Z. Xiong, L. Chen, W. Hao, P. Yang, and X. Chen, In-plane prestressing: Inspiration from a hair clip. 2022. doi: 10.48550/arXiv.2206.14867.
 
+### Video Link
+https://www.youtube.com/watch?v=RbEQNOhx4wQ
+
 
