@@ -1,20 +1,13 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Intro to Control Theory Teaching Assitant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Columbia University, Mechanical Engineering Department"
 date: 2014-01-01
-location: "City, Country"
+location: "New York,United State"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Graded problem sets and exams covering topics such as state-space analysis, frequency response, and root locus techniques and guided students to analyze and design linear feedback control systems.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Held office hours to support students in mastering Laplace transforms, Bode plots, and Nyquist stability criteria and assisted in MATLAB simulations for modeling and testing control systems.
