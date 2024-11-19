@@ -1,6 +1,6 @@
 ---
 title: "Robotic studio"
-excerpt: "Real Robot<br/><img src='/images/robotic_studio.jpg'>"
+excerpt: "Real Robot<br/><img src='/images/robotic_studio.png'>"
 collection: portfolio
 ---
 
