@@ -1,22 +1,14 @@
 ---
-title: "Data-driven analysis of cyclist accidents within New York City's urban landscape"
-excerpt: " Project Poster <br/><img src='/images/Poster.png'>"
+title: "Robotic studio"
+excerpt: "Real Robot<br/><img src='/images/Simulator_ver.jpg'>"
 collection: portfolio
 ---
 
-### Research Overview
+## Robotic studio
+In this hands-on studio training, I engaged in the complete robot design process “from A to Z,” covering kinematics, industrial design, manufacturing, electronics, simulation, and programming. I worked on designing and constructing an organic-looking legged robot, utilizing up to eight serial bus revolute servomotors with a 240-degree range.
 
-In our research, we used data science techniques to uncover trends in cyclist accidents within New York City from 2012 to 2023. We aimed to predict future bicycle accident hotspots to alert the public. This project is supported by the Northeast Big Data Innovation Hub, and we have received certification for it.
+My robot incorporated a rechargeable battery and a single-board computer as a controller, and I explored integrating accessories like a touchscreen display, a camera, and an accelerometer. I focused on creating a walking robot and experimented with additional functionalities, such as enabling the robot to perform unique movements. I also used a 3D printer to design textures, such as lattices and alien-like skins, to enhance the robot’s appearance. The outcome was a visually striking and functional robot suitable for showcasing in an online portfolio.
 
-### Machine Learning Component (My Responsibility)
-
-- **K-Means Clustering Model**: Identified prevalent accident locations, with the final model consisting of 20 clusters, pinpointing high-accident areas in Manhattan, Queens, and Brooklyn.
-
-- **Deep Learning Model**: Used a Multilayer Perceptron (MLP) to forecast future accident occurrences. The model demonstrated high accuracy (R-squared = 0.95, Cosine Similarity = 0.99), predicting 2024 accident hotspots primarily in Lower and Midtown Manhattan, and the border between Brooklyn and Queens.
-
-### Key Findings
-
-1. **Correlation Analysis**: Moderate positive correlation (approximately 0.61) between Citi Bike ridership and cyclist injuries.
-2. **Impact of Bike Lanes**: Significant number of accidents occur outside designated bike lanes, particularly in Brooklyn.
-3. **Weather Conditions**: Extreme temperatures significantly impact cycling activity and accident rates.
+## Github repository
+https://github.com/Luohongsuyu/Robot_Studio_Project
 
