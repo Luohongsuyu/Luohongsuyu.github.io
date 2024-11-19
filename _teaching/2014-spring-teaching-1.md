@@ -4,7 +4,7 @@ collection: teaching
 type: "Intro to Control Theory Teaching Assitant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Columbia University, Mechanical Engineering Department"
-date: 2014-01-01
+date: 2024-09-015
 location: "New York,United State"
 ---
 
