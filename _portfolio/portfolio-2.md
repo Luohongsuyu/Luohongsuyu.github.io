@@ -9,8 +9,8 @@ In this hands-on studio training, I engaged in the complete robot design process
 
 My robot incorporated a rechargeable battery and a single-board computer as a controller, and I explored integrating accessories like a touchscreen display, a camera, and an accelerometer. I focused on creating a walking robot and experimented with additional functionalities, such as enabling the robot to perform unique movements. I also used evolutionary algorithms and multi-objective optimization methods such as NSGA-II to optimize my control patterns, aiming to maximize my robot's movement speed. The outcome was a visually striking and functional robot suitable for showcasing in an online portfolio.
 
-Robto testing video: https://www.youtube.com/watch?v=etFUk4kWAlQ
-Journey video: https://www.youtube.com/watch?v=RdD6Z4WlUA0
+Robto testing video: https://www.youtube.com/watch?v=etFUk4kWAlQ <br>
+Journey video: [https://www.youtube.com/watch?v=RdD6Z4WlUA0](https://www.youtube.com/watch?v=3TSiQ1dDSS4)
 
 ## Github repository
 https://github.com/Luohongsuyu/Robot_Studio_Project
