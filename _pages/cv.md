@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. Student in Engineering Science, University of Oxford, Current
 * M.S. in Mechanical Engineering, Columbia University, 2025
 * B.S. in Mechanical Engineering (Computer science minor), University of Pittsburgh, 2023
 * B.S. in Mechanical Engineering, Sichuan University, 2023
@@ -18,16 +19,21 @@ Education
 Skills
 ======
 * MATLAB
-* Optimization algorithm
-  * Evolutionary computation
-  * Simulated annealing
+* OpenCV
+* Robot Operating System
+* Simulation tools
+  * Pybullet
+  * Mujoco
+  * Carsim
 * Computational mechanics
   * Comsol
   * Ansys
-* Machine Learning
+* Machine learning method
   * Reinforcement learning
   * Deep learning
-* OpenCV
+* Optimization algorithm
+  * Evolutionary computation
+  * Simulated annealing
 
 PDF
 ======
