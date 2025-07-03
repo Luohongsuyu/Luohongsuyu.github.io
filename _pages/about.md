@@ -9,7 +9,9 @@ redirect_from:
 ---
 ## Background
 
-My name is **Suyu Luohong**. I recently graduated with a Master’s degree in Mechanical Engineering from **Columbia University**. I also hold a Bachelor’s degree in Mechanical Engineering from both **Sichuan University** (China) and the **University of Pittsburgh** (USA), where I additionally completed a **minor in Computer Science**.
+My name is **Suyu Luohong**. I am currently pursuing a **DPhil (PhD) in Engineering Science** at the **University of Oxford**. I hold a **Master’s degree in Mechanical Engineering** from **Columbia University**, and a **Bachelor’s degree in Mechanical Engineering** from **Sichuan University** and the **University of Pittsburgh**, with a **minor in Computer Science**.
+
+
 
 ## Research Interests
 
