@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# About Me
-
 ## Background
 
 My name is **Suyu Luohong**. I recently graduated with a Master’s degree in Mechanical Engineering from **Columbia University**. I also hold a Bachelor’s degree in Mechanical Engineering from both **Sichuan University** (China) and the **University of Pittsburgh** (USA), where I additionally completed a **minor in Computer Science**.
