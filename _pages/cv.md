@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Student in Engineering Science, University of Oxford, Current
-* M.S. in Mechanical Engineering, Columbia University, 2025
-* B.S. in Mechanical Engineering (Computer science minor), University of Pittsburgh, 2023
-* B.S. in Mechanical Engineering, Sichuan University, 2023
+* Ph.D. Student in Engineering Science, University of Oxford, 2025-Current
+* M.S. in Mechanical Engineering, Columbia University, 2023-2025
+* B.S. in Mechanical Engineering (Computer science minor), University of Pittsburgh, 2021-2023
+* B.S. in Mechanical Engineering, Sichuan University, 2019-2023
   
 Skills
 ======
